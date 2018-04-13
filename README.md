@@ -1,4 +1,4 @@
-# Angular2_hammerJS
+# Angular4_hammerJS
 
 To run this application, you need nodejs and npm installed on your system. Then, run the following commands from your command prompt:
 
