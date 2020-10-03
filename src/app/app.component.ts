@@ -11,6 +11,7 @@ export class AppComponent
   private hammerManager: Manager = null;
   public horizontalSwipeDirection = 'Swipe horizontally';
 
+  //   oninit
   ngOnInit()
   {
         // Register for swipe functions.
